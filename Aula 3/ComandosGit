@@ -1,0 +1,10 @@
+ComandosGit
+git init   Inicia um repositório Git local
+git status   Mostra os arquivos modificados
+git add nome-arquivo   Adiciona um arquivo ai staging
+git add .   Adiciona todos os arquivos
+git commit -m "mensagem"   Cria um commit com uma mensagem
+git log   Mostra o histórico de commits
+git clone <url>   Clona um repositório  remoto
+git push   Envia os commits locais para o GitHub (ou outro remoto)
+git pull    Atualiza  o repositório local com base no remoto
